@@ -4,7 +4,7 @@
 **Taxi dataset**  
 Where to get the dataset : https://storage.googleapis.com/openimages/web/index.html  
 
-Tools to get the dataset : follow the README.md in https://github.com/theAIGuysCode/OIDv4_ToolKit  
+Tools to get the dataset : follow the README.md in https://github.com/EscVM/OIDv4_ToolKit  
 
 Or you can follow my steps in your terminal:
 - create virtual environment `$python -m venv oid_download`
